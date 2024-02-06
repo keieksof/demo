@@ -1,0 +1,17 @@
+.trix-button-group [data-trix-action="attachFiles"] {
+    display: none;
+}
+
+#photo-preview,
+#thumbnail-preview {
+    max-width: 25%;
+    height: auto;
+    margin-top: 10px;
+}
+
+.container {
+    max-width: none;
+    width: 100%;
+    margin-left: 1px;
+    margin-right: 1px;
+}
